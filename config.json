@@ -1,0 +1,18 @@
+{
+  "wrapper": "iframe",
+  "debug": "false",
+  "project_number": "14189",
+  "year": "2016",
+  "services": {
+    "default": "english",
+    "others": "*"
+  },
+  "amdModulePaths": {
+    "jquery": "../../bower_components/jquery/dist/jquery.min",
+    "chartjs": "../../bower_components/chartjs/dist/Chart.min",
+    "moment": "../../bower_components/moment/min/moment.min",
+    "template_engine": "../../bower_components/template_engine/template_engine",
+    "ShareTools": "../../bower_components/sharetools/bin/sharetools.min",
+    "ShareToolsTemplate": "../../bower_components/sharetools/bin/templates/dropdown/template"
+  }
+}
